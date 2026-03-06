@@ -77,7 +77,14 @@ This system integrates AI capabilities using Agentforce to support recruitment d
 - Salesforce Automation Tools  
 
 ---
+## System Architecture
 
+The following diagram represents the architecture of the **AI-Powered Job Recruitment & Candidate Management System** built on the Salesforce platform.
+
+It illustrates how recruiters interact with the Salesforce Lightning application, how candidate data is stored in custom objects, and how automation, security, AI insights, and reporting layers work together to manage the recruitment lifecycle.
+<img width="1024" height="1536" alt="system_architecture_diagram" src="https://github.com/user-attachments/assets/d29ab43e-2b9f-4e6e-bca4-46356c1685fd" />
+
+    
 ## Future Enhancements
 
 - AI-based candidate ranking system  
