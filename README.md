@@ -90,4 +90,10 @@ It illustrates how recruiters interact with the Salesforce Lightning application
 - AI-based candidate ranking system  
 - Resume parsing automation  
 - Automated interview scheduling  
-- Advanced recruitment analytics dashboards  
+- Advanced recruitment analytics dashboards
+
+## Project Demo Video
+
+You can watch the full project demonstration here:
+
+https://youtu.be/3im8eM_fBU8
